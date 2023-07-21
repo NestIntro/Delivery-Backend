@@ -4,8 +4,7 @@ import { WinstonModule } from 'nest-winston';
 import { transports, format } from 'winston';
 
 import { AppModule } from './app.module';
-import 'winston-daily-rotate-file'; 
-
+import 'winston-daily-rotate-file';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule, {
@@ -13,8 +12,8 @@ async function bootstrap() {
       transports: [
         // file on daily rotation (error only)
         new transports.DailyRotateFile({
-       // %DATE will be replaced by the current date
-          filename: `logs/%DATE%-error.log`, 
+          // %DATE will be replaced by the current date
+          filename: `logs/%DATE%-error.log`,
           level: 'error',
           format: format.combine(format.timestamp(), format.json()),
           datePattern: 'YYYY-MM-DD',
@@ -30,18 +29,19 @@ async function bootstrap() {
           maxFiles: '10d',
         }),
         new transports.Console({
-         format: format.combine(
-           format.cli(),
-           format.splat(),
-           format.timestamp(),
-           format.printf((info) => {
-             return `${info.timestamp} ${info.level}: ${info.message}`;
-           }),
+          format: format.combine(
+            format.cli(),
+            format.splat(),
+            format.timestamp(),
+            format.printf((info) => {
+              return `${info.timestamp} ${info.level}: ${info.message}`;
+            }),
           ),
-      }),
+        }),
       ],
     }),
   });
+  app.useGlobalPipes(new ValidationPipe());
   await app.listen(3000);
 }
 bootstrap();
