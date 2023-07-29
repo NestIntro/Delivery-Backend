@@ -1,7 +1,7 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { getRepositoryToken } from '@nestjs/typeorm';
-import { UsersService } from './users.service';
-import { UsersController } from './users.controller';
+import { UserService } from './users.service';
+import { UserController } from './users.controller';
 import { CreateUserDto } from './dto/create-user.dto';
 import { User } from './entities/users.entity';
 import { Repository } from 'typeorm';
@@ -16,14 +16,14 @@ const mockUserRepository = () => ({
 
 type MockRepository<T = any> = Partial<Record<keyof Repository<T>, jest.Mock>>;
 
-describe('UsersService', () => {
-  let service: UsersService;
+describe('UserService', () => {
+  let service: UserService;
   let userRepository: MockRepository<User>;
 
   beforeEach(async () => {
     const module: TestingModule = await Test.createTestingModule({
       providers: [
-        UsersService,
+        UserService,
         {
           provide: getRepositoryToken(User),
           useValue: mockUserRepository(),
@@ -31,7 +31,7 @@ describe('UsersService', () => {
       ],
     }).compile();
 
-    service = module.get<UsersService>(UsersService);
+    service = module.get<UserService>(UserService);
     userRepository = module.get<MockRepository<User>>(getRepositoryToken(User));
   });
 
@@ -78,8 +78,8 @@ describe('UsersService', () => {
   });
 
   describe('findAll()', () => {
-    it('should call UsersController find all', async () => {
-      // const findSpy = jest.spyOn(, 'findAllUser');
+    it('should call UserController find all', async () => {
+      // const findSpy = jest.spyOn(userRepository, 'findAllUser');
       // await service.findAllUser();
     });
   });
