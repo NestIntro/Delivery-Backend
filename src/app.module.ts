@@ -3,7 +3,7 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { RequestLoggerMiddleware } from './request-logger.middleware';
 import { TypeOrmModule } from '@nestjs/typeorm';
-import { UsersModule } from './users/users.module';
+import { UserModule } from './users/users.module';
 import { ConfigModule } from '@nestjs/config';
 
 @Module({
@@ -20,7 +20,7 @@ import { ConfigModule } from '@nestjs/config';
       synchronize: true,
       // dropSchema: true, //서버 재시작 할 때마다 DB 데이터 초기화
     }),
-    UsersModule,
+    UserModule,
   ],
   controllers: [AppController],
   providers: [AppService],
