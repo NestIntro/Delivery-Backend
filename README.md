@@ -1,8 +1,11 @@
-<img width="272" alt="GoodPeople" img src="/Users/jihwankim/Desktop/3조 아이콘(GoodPeople).png" />
+## 🧙 Team
+### GP(Good People)
 
-## Description
+| 김지환                                 | 남효정                                 | 이다정                              | 최희원                                  |
+| -------------------------------------- | -------------------------------------- | ----------------------------------- | --------------------------------------- |
+| [Github](https://github.com/Kimjipang) | [Github](https://github.com/heyhyo11) | [Github](https://github.com/AimzLee) | [Github](https://github.com/wonbbnote) |
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
 
 ## Installation
 
