@@ -1,4 +1,4 @@
-![3조 아이콘(GoodPeople)](https://github.com/NestIntro/Delivery-Backend/assets/91196025/a6b2cd52-2fff-4273-ae0a-a5a2ffc6ed79)
+<img src="/Users/jihwankim/Desktop/3조 아이콘(GoodPeople).png" alt="3조 아이콘(GoodPeople)" style="zoom:50%;" />
 
 ## Description
 
