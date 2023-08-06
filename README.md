@@ -9,6 +9,7 @@
 ## 💻 Stack
 <div>
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
 </div>
 
 ## Installation
