@@ -1,11 +1,15 @@
 ## 🧙 Team
-### GP(Good People)
+### GP(Good People) - TDD를 기반으로 Nest.js 서버 구축
 
 | 김지환                                 | 남효정                                 | 이다정                              | 최희원                                  |
 | -------------------------------------- | -------------------------------------- | ----------------------------------- | --------------------------------------- |
 | [Github](https://github.com/Kimjipang) | [Github](https://github.com/heyhyo11) | [Github](https://github.com/AimzLee) | [Github](https://github.com/wonbbnote) |
 
 
+## 💻 Stack
+<div>
+  <img src="https://img.shields.io/badge/Nest.js-#E0234E?style=for-the-badge&logo=nest&logoColor=white">
+</div>
 
 ## Installation
 
