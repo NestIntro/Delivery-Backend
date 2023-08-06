@@ -1,4 +1,4 @@
-<img src="/Users/jihwankim/Desktop/3조 아이콘(GoodPeople).png" alt="3조 아이콘(GoodPeople)" style="zoom:50%;" />
+<img width="272" alt="GoodPeople" img src="/Users/jihwankim/Desktop/3조 아이콘(GoodPeople).png" />
 
 ## Description
 
