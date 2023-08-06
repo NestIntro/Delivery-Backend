@@ -8,8 +8,13 @@
 
 ## 💻 Stack
 <div>
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/NEST.JS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
+  <img src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=Jest&logoColor=white">
+  <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/AMAZON CLOUDWATCH-FF4F8B?style=for-the-badge&logo=Amazon CloudWatch&logoColor=white">
+  <img src="https://img.shields.io/badge/AMAZON ECS-FF9900?style=for-the-badge&logo=Amazon ECS&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB ACTIONS-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white">
 </div>
 
 ## Installation
