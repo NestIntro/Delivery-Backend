@@ -36,6 +36,10 @@
   <img src="https://img.shields.io/badge/GITHUB ACTIONS-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white">
 </div>
 
+## CI/CD
+![스크린샷 2023-08-07 오후 9 55 20](https://github.com/NestIntro/Delivery-Backend/assets/91196025/0c377401-0b23-4ccf-b42d-c30c5d18c866)
+
+
 ## Installation
 
 ```bash
