@@ -1,9 +1,6 @@
 ## 🧙 Team
 ### GP(Good People) - TDD를 기반으로 Nest.js 서버 구축
 
-| 김지환                                 | 남효정                                 | 이다정                              | 최희원                                  |
-| -------------------------------------- | -------------------------------------- | ----------------------------------- | --------------------------------------- |
-| [Github](https://github.com/Kimjipang) | [Github](https://github.com/heyhyo11) | [Github](https://github.com/AimzLee) | [Github](https://github.com/wonbbnote) |
 
 <table>
   <tbody>
@@ -35,11 +32,17 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/GITHUB ACTIONS-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white">
 </div>
+<br/>
+<br/>
+<br/>
 
 ## CI/CD
 <img src="https://github.com/NestIntro/Delivery-Backend/assets/91196025/0c377401-0b23-4ccf-b42d-c30c5d18c866" width="700">
+<br/>
+<br/>
+<br/>
 
-## Cloud Watch & Slack
+## CloudWatch & Slack Webhook
 <img src="https://github.com/NestIntro/Delivery-Backend/assets/91196025/9ea2d3ae-77a6-43d8-81b8-0d2b13a3609e" width="700">
 
 
