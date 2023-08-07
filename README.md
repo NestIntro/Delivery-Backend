@@ -37,7 +37,7 @@
 </div>
 
 ## CI/CD
-<img src="https://github.com/NestIntro/Delivery-Backend/assets/91196025/0c377401-0b23-4ccf-b42d-c30c5d18c866" width="1200" height="500">
+<img src="https://github.com/NestIntro/Delivery-Backend/assets/91196025/0c377401-0b23-4ccf-b42d-c30c5d18c866" width="1000">
 
 
 
