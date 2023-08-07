@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td align="center"><a href=""><img src="https://img.extmovie.com/files/attach/images/135/049/890/085/7c17e08aa96eee5f2113fa8e6247b3be.jpeg" width="100px;" alt=""/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://data.onnada.com/character/202212/991931567_a2683e21_f4b91.jpeg" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://carboncostume.com/wordpress/wp-content/uploads/2013/04/Edith-in-Despicable-Me.jpg" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="https://i.pinimg.com/236x/86/07/8a/86078a2259d72a09114b89262f80c5f7--piggy-bank-penny.jpg" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="https://i.namu.wiki/i/UbPSYRciieg7mD96iUUicLHlXjverz8YY7bbwCZ2z8FLbnz0DX2HiiDeQjnzA1OvLgtaBtWHsW9ftiC50wUeBQ.webp" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
     </tr>
