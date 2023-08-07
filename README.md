@@ -5,7 +5,17 @@
 | -------------------------------------- | -------------------------------------- | ----------------------------------- | --------------------------------------- |
 | [Github](https://github.com/Kimjipang) | [Github](https://github.com/heyhyo11) | [Github](https://github.com/AimzLee) | [Github](https://github.com/wonbbnote) |
 
-<br/>
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 💻 Stack
 <div>
