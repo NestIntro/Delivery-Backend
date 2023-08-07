@@ -39,6 +39,8 @@
 ## CI/CD
 <img src="https://github.com/NestIntro/Delivery-Backend/assets/91196025/0c377401-0b23-4ccf-b42d-c30c5d18c866" width="700">
 
+## Cloud Watch & Slack
+<img src="https://github.com/NestIntro/Delivery-Backend/assets/91196025/9ea2d3ae-77a6-43d8-81b8-0d2b13a3609e" width="700">
 
 
 ## Installation
