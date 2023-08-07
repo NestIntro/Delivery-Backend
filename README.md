@@ -8,10 +8,11 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="https://i.namu.wiki/i/KrUJMMXswt0EEr9HwEVQmDpsVxQtbidLBC1Wj_B7NlJuH2CYa2lRBMqHJPuA8a-Q0hpSZ6YV_RR684e961T0Cw.webp" width="100px;" alt=""/><br /><sub><b>김지환</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>남효정</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>이다정</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>최희원</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="![뚱인뒈요?](https://github.com/NestIntro/Delivery-Backend/assets/91196025/b762c067-de91-4b1b-98e7-ddfead345f4b)
+" width="100px;" alt=""/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
@@ -21,6 +22,7 @@
 <div>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/NEST.JS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=Jest&logoColor=white">
   <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
