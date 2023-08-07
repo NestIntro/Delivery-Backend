@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/AMAZON CLOUDWATCH-FF4F8B?style=for-the-badge&logo=Amazon CloudWatch&logoColor=white">
   <img src="https://img.shields.io/badge/AMAZON ECS-FF9900?style=for-the-badge&logo=Amazon ECS&logoColor=white">
   <br/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/GITHUB ACTIONS-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white">
 </div>
 
