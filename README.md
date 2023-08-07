@@ -9,9 +9,9 @@
   <tbody>
     <tr>
       <td align="center"><a href=""><img src="https://i.namu.wiki/i/KrUJMMXswt0EEr9HwEVQmDpsVxQtbidLBC1Wj_B7NlJuH2CYa2lRBMqHJPuA8a-Q0hpSZ6YV_RR684e961T0Cw.webp" width="100px;" alt=""/><br /><sub><b>김지환</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>남효정</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>이다정</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>최희원</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
