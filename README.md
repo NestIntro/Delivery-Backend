@@ -5,7 +5,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="![뚱인뒈요?](https://github.com/NestIntro/Delivery-Backend/assets/91196025/b762c067-de91-4b1b-98e7-ddfead345f4b)
+      <td align="center"><a href=""><img src="(https://github.com/NestIntro/Delivery-Backend/assets/91196025/b762c067-de91-4b1b-98e7-ddfead345f4b)
 " width="100px;" alt=""/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
